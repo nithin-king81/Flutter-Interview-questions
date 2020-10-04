@@ -1,7 +1,5 @@
 # Flutter-Interview-Questions
 
-This repository is a part of HacktoberFest-an event organised by DigitalOcean. You are requested to create your profile using the above link to be a part of it.
-
 1. What is Flutter?
 
 Flutter is Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
